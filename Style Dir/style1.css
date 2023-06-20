@@ -111,12 +111,19 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.backimage2 {
+  background-image: url(https://i.postimg.cc/J4hJ65kX/undraw-Inspection-re-tbt7.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 .backimage3 {
   background-image: url(https://i.postimg.cc/4d10wTbJ/Book-Stack-blue-PNG.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
+
 .container1-tb {
   background-image: url(https://i.postimg.cc/sfKSJ3x0/For-the-love-of-physics.jpg);
   background-position: center;
